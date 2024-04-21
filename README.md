@@ -1,4 +1,6 @@
-# Introduction to Computer Networks Fall 2022 Assignment 1
+# Introduction to Computer Networks <br> <small>Assignment 1</small>
+
+
 
 ## Part 1 : UDP Pinger
 
